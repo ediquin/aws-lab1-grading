@@ -37,4 +37,4 @@ jobs:
     
     - name: Run tests
       run: |
-        pytest test_lab.py -v
+        pytest test_lab1.py -v
